@@ -1,0 +1,12 @@
+#mathematical operations
+no_1 = input ("Sag mir vier Zahlen!")
+no_2 = input ()
+no_3 = input ()
+no_4 = input ()
+print (f"{no_1} + {no_2} = {int(no_1)+int(no_2)}!")
+print (f"{no_3} - {no_4} = {int(no_3)-int(no_4)}!")
+print (f"{no_1} * {no_4} = {int(no_1)*int(no_4)}!")
+print (f"{no_1} / {no_2} = {float(no_1)/float(no_2)}!")
+print (f"{no_2} // {no_3} = {int(no_2)//int(no_3)}!")
+print (f"{no_4} ** {no_2} = {int(no_4)**int(no_2)}!")
+print (f"{no_3} % {no_2} = {int(no_3)%int(no_2)}!")
