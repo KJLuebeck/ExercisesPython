@@ -1,4 +1,6 @@
-no_1 = input ("Sag mir vier Zahlen!")
+# Shortcuts
+print ("Sag mir vier Zahlen!")
+no_1 = input ()
 no_2 = input ()
 no_3 = input ()
 no_4 = input ()

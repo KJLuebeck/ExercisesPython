@@ -1,4 +1,6 @@
-no_1 = float(input("Hey, give me two numbers!"))
+# Big numbers
+print ("Hey, give me two numbers!")
+no_1 = float(input())
 no_2 = float(input())
 if (no_1 + no_2) > 100:
     print ("That is a big number.")
